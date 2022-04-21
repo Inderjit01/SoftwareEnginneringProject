@@ -3,7 +3,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
 
-
 public class Books 
 {
 	LinkedList<Object> bookLocation = new LinkedList<Object>();
