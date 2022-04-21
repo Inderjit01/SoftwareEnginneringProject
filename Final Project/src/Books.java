@@ -38,7 +38,6 @@ public class Books
 		
 	public void search()
 	{
-		
 		boolean foundBook = false;
 		int i = 0;
 		
