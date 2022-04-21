@@ -8,7 +8,6 @@ public class Library
 	
 	public static void main(String[] args) 
 	{
-		
 		Books book = new Books();
 		
 		book.library();

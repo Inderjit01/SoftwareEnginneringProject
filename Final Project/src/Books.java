@@ -62,7 +62,6 @@ public class Books
 	} // end search
 	public void remove()
 	{
-		
 		boolean foundBook = false;
 		int i = 0;
 		
